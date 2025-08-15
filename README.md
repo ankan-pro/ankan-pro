@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ankan Ghosh and I'm a passionate DevOps and Data Engineer from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Ankan Ghosh and I'm a passionate DevOps and Data Engineer from India</h2>
 
 ### 🚀 About Me
 - 🔧 I specialize in **DevOps** and **Data Engineering**
